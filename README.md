@@ -54,21 +54,6 @@ Vision-first browser automation: describe what to do (`click the Login button`) 
 
 [**npm package**](https://www.npmjs.com/package/@inamul_hasan/vouch) · [**Source**](https://github.com/HackX-IN/vouch)
 
-<p align="center">
-  <a href="https://github.com/HackX-IN/vocs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=HackX-IN&repo=vocs&hide_border=true&theme=github_dark">
-      <img alt="Vocs repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=HackX-IN&repo=vocs&hide_border=true&theme=default">
-    </picture>
-  </a>
-  <a href="https://github.com/HackX-IN/vouch">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=HackX-IN&repo=vouch&hide_border=true&theme=github_dark">
-      <img alt="Vouch repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=HackX-IN&repo=vouch&hide_border=true&theme=default">
-    </picture>
-  </a>
-</p>
-
 ## Tech stack
 
 <p>
@@ -95,33 +80,18 @@ Vision-first browser automation: describe what to do (`click the Login button`) 
 ## GitHub analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HackX-IN&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark">
-    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=HackX-IN&show_icons=true&hide_border=true&include_all_commits=true&theme=default">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HackX-IN&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
-    <img alt="Most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackX-IN&layout=compact&langs_count=8&hide_border=true&theme=default">
-  </picture>
+  <img alt="Profile overview" src="metrics-overview.svg">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HackX-IN&hide_border=true&theme=github-dark-blue">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=HackX-IN&hide_border=true&theme=default">
-  </picture>
+  <img alt="Most used languages" src="metrics-languages.svg">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HackX-IN&bg_color=0d1117&color=c9d1d9&line=3fb950&point=58a6ff&area=true&area_color=3fb950&hide_border=true&custom_title=Contribution%20activity%20(last%2031%20days)">
-    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=HackX-IN&bg_color=ffffff&color=24292f&line=2ea043&point=1f6feb&area=true&area_color=2ea043&hide_border=true&custom_title=Contribution%20activity%20(last%2031%20days)">
-  </picture>
+  <img alt="Contribution calendar" src="metrics-calendar.svg">
 </p>
 
-<p align="center">
-  <img alt="Contribution heatmap" src="https://ghchart.rshah.org/2ea043/HackX-IN" width="100%">
-</p>
+<sub>Charts are generated daily by a GitHub Action and committed to this repo.</sub>
 
 ## Currently
 
