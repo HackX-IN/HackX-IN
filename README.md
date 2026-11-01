@@ -95,8 +95,8 @@ Vision-first browser automation: describe what to do (`click the Login button`) 
 
 ## Currently
 
-- 🔨 Building: _one current project_
-- 📚 Going deeper on: _one topic_
+- 🔨 Building: [**Vocs**](https://github.com/HackX-IN/vocs), local-first speech-to-text for macOS. Press a key, talk, and your words are pasted, with audio never leaving your machine
+- 📚 Going deeper on: Rust and on-device AI (speech recognition and grammar models)
 - 💬 Ask me about: React/Next.js architecture, React Native, Supabase, shipping MVPs fast
 
 ## Let's work together
